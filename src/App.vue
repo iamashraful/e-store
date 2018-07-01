@@ -5,9 +5,6 @@
     </div>
 </template>
 
-<style lang="scss">
-
-</style>
 <script>
     import TopNavbar from "@/components/ui/TopNavbar";
 
@@ -15,3 +12,7 @@
         components: {TopNavbar}
     }
 </script>
+
+<style lang="scss">
+
+</style>
